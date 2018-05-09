@@ -1,0 +1,12 @@
+F:\C#\Bookstore\Fore\BookStore\Bll\bin\Debug\Bll.dll
+F:\C#\Bookstore\Fore\BookStore\Bll\bin\Debug\Bll.pdb
+F:\C#\Bookstore\Fore\BookStore\Bll\bin\Debug\Dal.dll
+F:\C#\Bookstore\Fore\BookStore\Bll\bin\Debug\Model.dll
+F:\C#\Bookstore\Fore\BookStore\Bll\bin\Debug\MySql.Data.dll
+F:\C#\Bookstore\Fore\BookStore\Bll\bin\Debug\Helper.dll
+F:\C#\Bookstore\Fore\BookStore\Bll\bin\Debug\Dal.pdb
+F:\C#\Bookstore\Fore\BookStore\Bll\bin\Debug\Model.pdb
+F:\C#\Bookstore\Fore\BookStore\Bll\bin\Debug\Helper.pdb
+F:\C#\Bookstore\Fore\BookStore\Bll\obj\Debug\Bll.csprojResolveAssemblyReference.cache
+F:\C#\Bookstore\Fore\BookStore\Bll\obj\Debug\Bll.dll
+F:\C#\Bookstore\Fore\BookStore\Bll\obj\Debug\Bll.pdb

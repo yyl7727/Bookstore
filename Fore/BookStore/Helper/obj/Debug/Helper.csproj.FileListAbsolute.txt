@@ -1,0 +1,5 @@
+F:\C#\Bookstore\Fore\BookStore\Helper\bin\Debug\Helper.dll
+F:\C#\Bookstore\Fore\BookStore\Helper\bin\Debug\Helper.pdb
+F:\C#\Bookstore\Fore\BookStore\Helper\obj\Debug\Helper.csprojResolveAssemblyReference.cache
+F:\C#\Bookstore\Fore\BookStore\Helper\obj\Debug\Helper.dll
+F:\C#\Bookstore\Fore\BookStore\Helper\obj\Debug\Helper.pdb

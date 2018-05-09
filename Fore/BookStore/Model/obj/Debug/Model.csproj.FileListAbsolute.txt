@@ -1,0 +1,4 @@
+F:\C#\Bookstore\Fore\BookStore\Model\bin\Debug\Model.dll
+F:\C#\Bookstore\Fore\BookStore\Model\bin\Debug\Model.pdb
+F:\C#\Bookstore\Fore\BookStore\Model\obj\Debug\Model.dll
+F:\C#\Bookstore\Fore\BookStore\Model\obj\Debug\Model.pdb

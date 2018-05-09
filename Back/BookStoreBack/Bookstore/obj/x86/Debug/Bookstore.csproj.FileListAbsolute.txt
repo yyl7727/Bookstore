@@ -1,0 +1,15 @@
+F:\C#\Bookstore\Back\BookStoreBack\Bookstore\bin\Debug\Bookstore.exe.config
+F:\C#\Bookstore\Back\BookStoreBack\Bookstore\bin\Debug\Bookstore.exe
+F:\C#\Bookstore\Back\BookStoreBack\Bookstore\bin\Debug\Bookstore.pdb
+F:\C#\Bookstore\Back\BookStoreBack\Bookstore\obj\x86\Debug\Bookstore.csprojResolveAssemblyReference.cache
+F:\C#\Bookstore\Back\BookStoreBack\Bookstore\obj\x86\Debug\Bookstore.Form1.resources
+F:\C#\Bookstore\Back\BookStoreBack\Bookstore\obj\x86\Debug\Bookstore.Properties.Resources.resources
+F:\C#\Bookstore\Back\BookStoreBack\Bookstore\obj\x86\Debug\Bookstore.Ui.AddUser.resources
+F:\C#\Bookstore\Back\BookStoreBack\Bookstore\obj\x86\Debug\Bookstore.csproj.GenerateResource.Cache
+F:\C#\Bookstore\Back\BookStoreBack\Bookstore\obj\x86\Debug\Bookstore.exe
+F:\C#\Bookstore\Back\BookStoreBack\Bookstore\obj\x86\Debug\Bookstore.pdb
+F:\C#\Bookstore\Back\BookStoreBack\Bookstore\obj\x86\Debug\Bookstore.Ui.DeleteUser.resources
+F:\C#\Bookstore\Back\BookStoreBack\Bookstore\obj\x86\Debug\Bookstore.Ui.QueryUser.resources
+F:\C#\Bookstore\Back\BookStoreBack\Bookstore\obj\x86\Debug\Bookstore.Ui.AddBook.resources
+F:\C#\Bookstore\Back\BookStoreBack\Bookstore\obj\x86\Debug\Bookstore.Ui.DeleteBook.resources
+F:\C#\Bookstore\Back\BookStoreBack\Bookstore\obj\x86\Debug\Bookstore.Ui.QueryBook.resources

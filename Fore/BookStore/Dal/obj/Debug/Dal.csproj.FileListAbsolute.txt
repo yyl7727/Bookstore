@@ -1,0 +1,9 @@
+F:\C#\Bookstore\Fore\BookStore\Dal\bin\Debug\Dal.dll
+F:\C#\Bookstore\Fore\BookStore\Dal\bin\Debug\Dal.pdb
+F:\C#\Bookstore\Fore\BookStore\Dal\bin\Debug\Helper.dll
+F:\C#\Bookstore\Fore\BookStore\Dal\bin\Debug\Model.dll
+F:\C#\Bookstore\Fore\BookStore\Dal\bin\Debug\Helper.pdb
+F:\C#\Bookstore\Fore\BookStore\Dal\bin\Debug\Model.pdb
+F:\C#\Bookstore\Fore\BookStore\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+F:\C#\Bookstore\Fore\BookStore\Dal\obj\Debug\Dal.dll
+F:\C#\Bookstore\Fore\BookStore\Dal\obj\Debug\Dal.pdb
